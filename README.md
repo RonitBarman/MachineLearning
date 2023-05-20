@@ -1,6 +1,6 @@
 # Machine Learning
 
-### Data
+## Data
 Data for the machine learning models is in the kaggle_data folder. These files were taken from Kaggle.  
 The framework used is Tensorflow. Data analysis and cleaning is done through the Pandas library. Plotting and graphs is done through Matplotlib.
 
